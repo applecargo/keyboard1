@@ -1,5 +1,7 @@
 # keyboard1
 
+![](./keyboard1.png)
+
 ## a fork of 'button1' to construct a web-shared keyboard, playable together with network actors.
 
 - paperjs-based keyboard layout drawing
